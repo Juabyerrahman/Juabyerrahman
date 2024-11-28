@@ -5,7 +5,7 @@
 
 
 
-
+Connect With me:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jubayer-rahman-ba527a2a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jubayer-rahman-ba527a2a1/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/jubayer.rhaman.52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jubayer.rhaman.52/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/floopmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/floopmaster" height="30" width="40" /></a>
