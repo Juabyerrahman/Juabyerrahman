@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jubayer Rahman</h1>
-<h3 align="center">Currently I am perusing Bsc in CSE in United International University.</h3>
+<h3 align="center">Currently I am pursuing Bsc in CSE at United International University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jubayerrahman&label=Profile%20views&color=0e75b6&style=flat" alt="jubayerrahman" /> </p>
 
 
 
